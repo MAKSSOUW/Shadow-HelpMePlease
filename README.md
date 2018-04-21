@@ -1,6 +1,8 @@
 # Shadow-HelpMePlease
 Ceci est un thread avec différentes solutions pour différents soucis sur Shadow
 
+Afin de voir les différentes solutions, cliquez sur "Issues" en haut ou ici: https://github.com/MAKSSOUW/Shadow-HelpMePlease/issues
+
 Information Shadow:
 
 |-> https://shadow.tech/
